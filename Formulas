@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T07:26:50.566Z" agent="5.0 (X11)" etag="jMlQm5R5NzGGZy40KX-K" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T18:35:31.053Z" agent="5.0 (X11)" etag="wVx_X1XJV_ed8rPq8sq5" version="15.6.2" type="github">
   <diagram id="jhTEXQ1eLOPSTr9Yi_61" name="Page-1">
-    <mxGraphModel dx="5500" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5833" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9yCyeA5SpbrmTf-baPRt-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;National income accounting&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`GDP_(MP) = \text{C+ I + G + (E - I)}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`GDP_(FC)= GDP_(MP)\text{ - IT + subsidies}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;`GNP_(MP) = GDP_(MP) + \text{NFIA}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;`GNP_(FC) = GNP_(MP) - \text{IT + subsidies}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;`NDP_(MP) = GDP_(MP) - \text{Depreciation}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`NDP_(FC) = GDP_(FC) - \text{Depreciation}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;`\text{NNP}_(MP) = GNP_(MP) - \text{Depreciation}``= \text{NDP}_(MP)+NFIA`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;`\text{NNP}_(FC) = \text{GNP}_(FC) - \text{Depreciation}`&lt;br&gt;`\text{NNP}_(FC)= \text{National income}`&lt;br&gt;`\text{NNP}_(FC)= \text{NDP}_(FC)+NFIA`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PI =&amp;nbsp; NNP&lt;sub&gt;FC&lt;/sub&gt;+ income received but not earned – income earned but not received.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;PI = NNP&lt;sub&gt;FC&lt;/sub&gt; - Undistributed profits - Net interest payments made by households - Corporate Tax&amp;nbsp; +Transfer Payments to the households from firms and government.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Private Income = Factor income from net domestic product accruing to the private sector + Net factor income from abroad + National&amp;nbsp; debt interest + Current transfers from government + Other net transfers from the rest of the world.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Disposable Income = PI - Personal Income Taxes – Non tax payments&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Net national income} = \text{Rent + wages Interest + Profit + Mixed income + net factor income from abroad} `&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Operating Surplus = Rent + interest + profit}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Net national income} = \text{Operating surplus + Compensation ot employees + Mixed income + Net income from abroad}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1360" y="180" width="720" height="570" as="geometry" />
+          <mxGeometry x="1150" y="90" width="720" height="570" as="geometry" />
         </mxCell>
         <mxCell id="9yCyeA5SpbrmTf-baPRt-2" value="&lt;font style=&quot;font-size: 72px&quot;&gt;Economics&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1360" y="80" width="720" height="80" as="geometry" />
+          <mxGeometry x="1150" y="-10" width="720" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9yCyeA5SpbrmTf-baPRt-24" value="&lt;font style=&quot;font-size: 72px&quot;&gt;FM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2120" y="80" width="680" height="80" as="geometry" />
+          <mxGeometry x="-570" width="680" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9yCyeA5SpbrmTf-baPRt-27" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-2119" y="180" width="680" height="840" as="geometry" />
+          <mxGeometry x="-569" y="100" width="680" height="840" as="geometry" />
         </mxCell>
         <mxCell id="9yCyeA5SpbrmTf-baPRt-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=72;" parent="9yCyeA5SpbrmTf-baPRt-27" vertex="1">
           <mxGeometry width="680" height="840" as="geometry" />
@@ -116,10 +116,10 @@
           <mxGeometry x="185" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9yCyeA5SpbrmTf-baPRt-40" value="&lt;font style=&quot;font-size: 72px&quot;&gt;Costing&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2960" y="80" width="680" height="80" as="geometry" />
+          <mxGeometry x="-2330" y="-20" width="680" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9yCyeA5SpbrmTf-baPRt-67" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-3040" y="190" width="840" height="1860" as="geometry" />
+          <mxGeometry x="-2410" y="90" width="840" height="1860" as="geometry" />
         </mxCell>
         <mxCell id="9yCyeA5SpbrmTf-baPRt-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="9yCyeA5SpbrmTf-baPRt-67" vertex="1">
           <mxGeometry width="840" height="1860" as="geometry" />
@@ -187,11 +187,11 @@
         <mxCell id="8GsDAu6XCvqiCapnBuaQ-1" value="2 A CA Certified" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="9yCyeA5SpbrmTf-baPRt-67" vertex="1">
           <mxGeometry x="720" y="120" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lPQtKECbEb4jKFFWN97Y-1" value="&lt;u&gt;Reorder&lt;/u&gt; pizza to get &lt;u&gt;maximum&lt;/u&gt; discount to get &lt;u&gt;maximum&lt;/u&gt; &lt;u&gt;consumption&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="9yCyeA5SpbrmTf-baPRt-67">
+        <mxCell id="lPQtKECbEb4jKFFWN97Y-1" value="&lt;u&gt;Reorder&lt;/u&gt; pizza to get &lt;u&gt;maximum&lt;/u&gt; discount to get &lt;u&gt;maximum&lt;/u&gt; &lt;u&gt;consumption&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="9yCyeA5SpbrmTf-baPRt-67" vertex="1">
           <mxGeometry x="-60" y="910" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9yCyeA5SpbrmTf-baPRt-79" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-2920" y="2080" width="600" height="1220" as="geometry" />
+          <mxGeometry x="-3420" y="2510" width="600" height="1220" as="geometry" />
         </mxCell>
         <mxCell id="9yCyeA5SpbrmTf-baPRt-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="9yCyeA5SpbrmTf-baPRt-79" vertex="1">
           <mxGeometry width="600" height="1220" as="geometry" />
@@ -218,7 +218,112 @@
           <mxGeometry x="235" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9yCyeA5SpbrmTf-baPRt-80" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-1960" y="950" width="30" height="30" as="geometry" />
+          <mxGeometry x="-410" y="870" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3920" y="700" width="910" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-2" value="Value of right = Cum-right value of share – Ex-right value of share " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3580" y="850" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-3" value="`\text{Ex-right value of the shares}=&amp;nbsp; [(\text{Cum-right value(MP)}xx \text{Number of existing shares})&amp;nbsp; +&amp;nbsp; (\text{Number of Rights shares} xx \text{Issue Price})] / (\text{ Number of Existing shares} + \text{Number of right shares})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3905" y="770" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-4" value="Right Issue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3520" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2490" y="1970" width="1000" height="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-6" value="Time saved" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="2040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-7" value="Excess production" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="2097" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-8" value="Time saved = Time allowed - Time taken" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2335" y="2040" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-9" value="Excess production = standard production - actual production" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2335" y="2097" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-10" value="Efficiency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-11" value="&lt;div&gt;&lt;u&gt;Based on production&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{actual production}/\text{standard production}*100`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2335" y="2160" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-12" value="&lt;div&gt;&lt;u&gt;Based on time&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{standard time}/\text{actual time}*100`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2055" y="2160" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-13" value="&lt;div&gt;&lt;u&gt;total wages&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{basic wages}+\text{bonus}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1775" y="2160" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-14" value="&lt;div&gt;&lt;u&gt;effective rate per hour&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{total wages}/\text{time taken(Excluding normal idle time)}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="2360" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-15" value="Piece rate system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="2463" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-16" value="wages = actual production * rate per unit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2055" y="2468" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-17" value="&lt;div&gt;&lt;u&gt;rate per unit&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{rate per hour}/\text{standard output per hour}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2335" y="2463" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-18" value="Halsey system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="2570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-19" value="Rowan system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="2670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-20" value="&lt;div&gt;&lt;u&gt;Bonus =&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`50%*\text{Time saved}*\text{Rate/Hour}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2335" y="2570" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-21" value="&lt;div&gt;&lt;u&gt;Bonus =&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{Time saved}/\text{Time allowed}*\text{Basic wages}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1733.5" y="2670" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-22" value="time allowed = No. of units produced * standard time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2335.5" y="2670" width="301" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-23" value="time saved = excess units * standard time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2034.5" y="2670" width="301" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-24" value="`\text{Factory cost} =\text{Material cost} + \text{labour} + \text{factory overhead}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="2730" width="435" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-25" value="Average number of worker in a year =&amp;nbsp;&lt;br&gt;&lt;br&gt;`(\text{number of workers in the beginning}+\text{number of workers in the end})/2`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2460" y="2790" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-26" value="Seperation method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2460" y="2893" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-27" value="Replacement method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2460" y="2998" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-28" value="Flux method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2460" y="3100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-29" value="`\text{number of workers seperated}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2340" y="2893" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-30" value="`\text{number of workers replaced}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2340" y="3000" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-31" value="`\text{number of workers replaced + number of workers seperated}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2340" y="3100" width="479.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-32" value="&lt;div&gt;&lt;u&gt;Wage rate per hour&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{total wages}/\text{time taken(Including normal idle time)}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="2260" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-33" value="Flux method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2459.75" y="3210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-34" value="&lt;div&gt;`\text{No. of Separation+ No. of Replacements+No. of new Joinings}/\text{Avg. no. of employees during the period on roll}*100`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{No. of Separations+No. of Accessions}/\text{Average no. of employees during the period on roll}*100`&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-2339.75" y="3210" width="499.75" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sFjce51CUz2_WFqluoA9-35" value="Employee cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2070" y="1970" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
