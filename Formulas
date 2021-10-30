@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T07:16:01.731Z" agent="5.0 (X11)" etag="__k0ywvf9b5EeQUb16mA" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-30T07:16:44.098Z" agent="5.0 (X11)" etag="8hpdnk6zEgCMk3qqqGDt" version="15.6.2" type="github">
   <diagram id="jhTEXQ1eLOPSTr9Yi_61" name="Page-1">
     <mxGraphModel dx="5358" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -352,13 +352,13 @@
         <mxCell id="O62dr573NKm8FtzhOf2Q-116" value="Flux method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2980" y="3200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O62dr573NKm8FtzhOf2Q-117" value="`\text{number of workers seperated}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O62dr573NKm8FtzhOf2Q-117" value="`\text{number of workers seperated}/\text{average number of workers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2860" y="2993" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O62dr573NKm8FtzhOf2Q-118" value="`\text{number of workers replaced}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O62dr573NKm8FtzhOf2Q-118" value="`\text{number of workers replaced}/\text{average number of workers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2860" y="3100" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O62dr573NKm8FtzhOf2Q-119" value="`\text{number of workers replaced + number of workers seperated}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O62dr573NKm8FtzhOf2Q-119" value="`\text{number of workers replaced + number of workers seperated}/\text{average number of workers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2860" y="3200" width="479.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-120" value="&lt;div&gt;&lt;u&gt;Wage rate per hour&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{total wages}/\text{time taken(Including normal idle time)}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
