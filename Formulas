@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T06:08:33.351Z" agent="5.0 (X11)" etag="Md0YXM9A48gfTn2JWdD1" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-30T06:17:46.572Z" agent="5.0 (X11)" etag="cZweigpl2Q0EPXmXOfKr" version="15.6.2" type="github">
   <diagram id="jhTEXQ1eLOPSTr9Yi_61" name="Page-1">
-    <mxGraphModel dx="7020" dy="2130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="6097" dy="2088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,40 +8,40 @@
           <mxGeometry x="-470" y="690" width="520" height="835" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1361.4499999999998" y="8970" width="893.3" height="410" as="geometry" />
+          <mxGeometry x="-1366.4499999999998" y="8730" width="893.3" height="410" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1066.3" y="8670" width="303.5" height="280" as="geometry" />
+          <mxGeometry x="-1071.3" y="8430" width="303.5" height="280" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1125" y="8160" width="450" height="490" as="geometry" />
+          <mxGeometry x="-1130" y="7920" width="450" height="490" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1465" y="7740" width="1220" height="400" as="geometry" />
+          <mxGeometry x="-1470" y="7500" width="1220" height="400" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1400" y="7020" width="940" height="690" as="geometry" />
+          <mxGeometry x="-1405" y="6780" width="940" height="690" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1279" y="4830" width="670" height="2170" as="geometry" />
+          <mxGeometry x="-1284" y="4590" width="670" height="2170" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1265" y="6315" width="640" height="670" as="geometry" />
+          <mxGeometry x="-1270" y="6075" width="640" height="670" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1245" y="6685" width="590" height="290" as="geometry" />
+          <mxGeometry x="-1250" y="6445" width="590" height="290" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1245" y="6373" width="590" height="302" as="geometry" />
+          <mxGeometry x="-1250" y="6133" width="590" height="302" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1220" y="6050" width="530" height="250" as="geometry" />
+          <mxGeometry x="-1225" y="5810" width="530" height="250" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1245" y="5230" width="580" height="810" as="geometry" />
+          <mxGeometry x="-1250" y="4990" width="580" height="810" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1241.5" y="960" width="585" height="3850" as="geometry" />
+          <mxGeometry x="-1241.5" y="960" width="585" height="3610" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1850" y="100" width="310" height="220" as="geometry" />
@@ -434,178 +434,178 @@
           <mxGeometry x="-2010" width="680" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-150" value="&lt;div&gt;Some other formulas&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Inventories = Current ratio - Quick ratio&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1227" y="4719" width="557" height="71" as="geometry" />
+          <mxGeometry x="-1210" y="4479" width="520" height="71" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-151" value="Financial analysis and planning" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-1036" y="980" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-152" value="&lt;div&gt;Cost of equity &lt;br&gt;&lt;/div&gt;&lt;div&gt;shares&lt;/div&gt;&lt;div&gt;&lt;b&gt;`K_e`&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1005" y="5250" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1010" y="5010" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-153" value="Cost of preference shares `K_p`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1037.5" y="6060" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1042.5" y="5820" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-154" value="&lt;div&gt;cost to debt&lt;br&gt;&lt;/div&gt;&lt;div&gt;`K_d`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1010" y="6322" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1015" y="6082" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-155" value="Existing shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1085" y="5330" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1090" y="5090" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-156" value="fresh issue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-915" y="5330" width="120" height="40" as="geometry" />
+          <mxGeometry x="-920" y="5090" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-157" value="realized yield approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1225" y="5945" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1230" y="5705" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-158" value="Dividend yield approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1225" y="5370" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1230" y="5130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-159" value="capital assets pricing model (CAPM)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1225" y="5810" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1230" y="5570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-160" value="&lt;div&gt;dividend yield + growth approach&lt;/div&gt;&lt;div&gt;(Gordon&#39;s formula)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1225" y="5490" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1230" y="5250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-161" value="earning yield approach " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1225" y="5610" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1230" y="5370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-162" value="earning yield + growth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1225" y="5730" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1230" y="5490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-163" value="`K_e = (DPS_0)/(MPS)*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1105" y="5370" width="160" height="60" as="geometry" />
+          <mxGeometry x="-1110" y="5130" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-164" value="`K_e = (DPS_0)/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-945" y="5370" width="180" height="60" as="geometry" />
+          <mxGeometry x="-950" y="5130" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-165" value="&lt;div&gt;`DPS_1` = Expected DPS&lt;/div&gt;&lt;div&gt;`DPS_0` = current Dividend that is paid&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;i.e.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`DPS_1 = DPS_0 + g`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="4910" width="230" height="100" as="geometry" />
+          <mxGeometry x="-1065" y="4670" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-166" value="Net proceeds = Issue price - flotation cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1085" y="5030" width="280" height="40" as="geometry" />
+          <mxGeometry x="-1090" y="4790" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-167" value="Existing shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1075" y="5450" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1080" y="5210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-168" value="fresh issue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-860" y="5450" width="120" height="40" as="geometry" />
+          <mxGeometry x="-865" y="5210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-169" value="`K_e = [(DPS_1)/(MPS)+g]*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1105" y="5490" width="180" height="60" as="geometry" />
+          <mxGeometry x="-1110" y="5250" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-170" value="`K_e = [(DPS_1)/(\text{Net proceeds})+g ]*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-915" y="5490" width="230" height="60" as="geometry" />
+          <mxGeometry x="-920" y="5250" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-171" value="Existing shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1085" y="5570" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1090" y="5330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-172" value="fresh issue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-915" y="5570" width="120" height="40" as="geometry" />
+          <mxGeometry x="-920" y="5330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-173" value="`K_e = (EPS_0)/(MPS)*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1105" y="5610" width="160" height="60" as="geometry" />
+          <mxGeometry x="-1110" y="5370" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-174" value="`K_e = (EPS_0)/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-945" y="5610" width="180" height="60" as="geometry" />
+          <mxGeometry x="-950" y="5370" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-175" value="Existing shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1070" y="5690" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1075" y="5450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-176" value="fresh issue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-857.5" y="5690" width="120" height="40" as="geometry" />
+          <mxGeometry x="-862.5" y="5450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-177" value="`K_e = [(EPS_1)/(MPS)+g]*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1105" y="5730" width="190" height="60" as="geometry" />
+          <mxGeometry x="-1110" y="5490" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-178" value="`K_e = [(EPS_1)/(\text{Net proceeds})+g ]*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-915" y="5730" width="235" height="60" as="geometry" />
+          <mxGeometry x="-920" y="5490" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-179" value="`K_p = (PD)/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1062.5" y="6125" width="200" height="60" as="geometry" />
+          <mxGeometry x="-1067.5" y="5885" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-180" value="Existing shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1235" y="6487" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1240" y="6247" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-181" value="fresh issue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1229.25" y="6602" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1234.25" y="6362" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-182" value="`K_d = (\text{interest P.a})/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1109.25" y="6602" width="204.25" height="60" as="geometry" />
+          <mxGeometry x="-1114.25" y="6362" width="204.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-183" value="Before tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1070" y="6447" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1075" y="6207" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-184" value="after tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-847.1300000000001" y="6447" width="120" height="40" as="geometry" />
+          <mxGeometry x="-852.1300000000001" y="6207" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-185" value="Before tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1067.12" y="6562" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1072.12" y="6322" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-186" value="after tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-847.1300000000001" y="6562" width="120" height="40" as="geometry" />
+          <mxGeometry x="-852.1300000000001" y="6322" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-187" value="`K_d = (\text{interest P.a} (1-t))/(\text{Net proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-905" y="6602" width="235.75" height="60" as="geometry" />
+          <mxGeometry x="-910" y="6362" width="235.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-188" value="`K_d = (\text{interest P.a})/(\text{MV of proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1115" y="6487" width="210" height="60" as="geometry" />
+          <mxGeometry x="-1120" y="6247" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-189" value="`K_d = (\text{interest P.a} (1-t))/(\text{MV of proceeds})*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-905" y="6487" width="235.75" height="60" as="geometry" />
+          <mxGeometry x="-910" y="6247" width="235.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-190" value="&lt;div&gt;cost to retained earnongs&lt;/div&gt;&lt;div&gt;`K_r`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-955" y="6846" width="120" height="60" as="geometry" />
+          <mxGeometry x="-960" y="6606" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-191" value="`K_r = K_e`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-955" y="6926" width="120" height="40" as="geometry" />
+          <mxGeometry x="-960" y="6686" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-192" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Growth rate&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`Growth = (EPS - DPS)/(MPS)`&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(if MPS is not available use &lt;br&gt;&lt;/div&gt;&lt;div&gt;Book Value Per Share)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1045" y="5090" width="200" height="130" as="geometry" />
+          <mxGeometry x="-1050" y="4850" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-193" value="For irredeemable preference shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1182.5" y="6125" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1187.5" y="5885" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-194" value="For redeemable preference shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1182.5" y="6205" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1187.5" y="5965" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-195" value="`K_p = ((PD)+((\text{Redemption value} - \text{Net proceeds})/n))/((\text{Redemption value}+\text{Net proceeds})/2)*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1062.5" y="6205" width="355" height="80" as="geometry" />
+          <mxGeometry x="-1067.5" y="5965" width="355" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-196" value="Redeemable debentures" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-955" y="6696" width="120" height="40" as="geometry" />
+          <mxGeometry x="-960" y="6456" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-197" value="Irredeemable debentures" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-955" y="6382" width="120" height="40" as="geometry" />
+          <mxGeometry x="-960" y="6142" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-198" value="`K_p = ((Interest)(1-t)+((\text{Redemption value} - \text{Net proceeds})/n))/((\text{Redemption value}+\text{Net proceeds})/2)*100`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1117.5" y="6746" width="445" height="80" as="geometry" />
+          <mxGeometry x="-1122.5" y="6506" width="445" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-199" value="&lt;div&gt;`Y_1 = ((P_1-P_0)+D_1)/P_0`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;do this for the available years&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1105" y="5945" width="200" height="80" as="geometry" />
+          <mxGeometry x="-1110" y="5705" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-200" value="`K_e = (Y_1*Y_2*...Y_x)^(1/n) - 1`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-905" y="5945" width="230" height="40" as="geometry" />
+          <mxGeometry x="-910" y="5705" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-201" value="`K_e = R_f + beta (R_m - R_f)`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1105" y="5810" width="200" height="40" as="geometry" />
+          <mxGeometry x="-1110" y="5570" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-202" value="&lt;div&gt;`R_f` = return from risk free investment(bank FD)&lt;/div&gt;&lt;div&gt;`R_m` = Returns from market i.e the rate of index (SENSEX or NIFTY)&lt;/div&gt;&lt;div&gt;`beta` = is the measure of risk&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-905" y="5810" width="160" height="120" as="geometry" />
+          <mxGeometry x="-910" y="5570" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-203" value="Cost of capital" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1010" y="4830" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1015" y="4590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-204" value="$$\dfrac{\left( EBIT-Interest\right) \left( 1-t\right) -Preferece.Dividend}{Number.of.Equity.shares.of.plan.1}=\dfrac{\left( EBIT-Interest\right) \left( 1-t\right) -Preference.Dividend}{Number.of.Equity.shares.of.plan.2}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1259.55" y="7510" width="780" height="80" as="geometry" />
+          <mxGeometry x="-1264.55" y="7270" width="780" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-205" value="`FBEP = Interest + \text{Preference dividend}/(1-t)`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1259.55" y="7610" width="320" height="80" as="geometry" />
+          <mxGeometry x="-1264.55" y="7370" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-206" value="&lt;div&gt;`\text{net proceeds} = \text{Issue price} - \text{flotation cost}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Number of shares} = \text{Equity share capital} / \text{Net proceeds}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1379.5500000000002" y="7400" width="320" height="90" as="geometry" />
+          <mxGeometry x="-1384.5500000000002" y="7160" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-207" value="&lt;div&gt;Indifference&lt;/div&gt;&lt;div&gt; level (IV)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-1379.5500000000002" y="7510" width="120" height="40" as="geometry">
+          <mxGeometry x="-1384.5500000000002" y="7270" width="120" height="40" as="geometry">
             <mxRectangle x="360" y="520" width="220" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -613,7 +613,7 @@
           <mxGeometry y="40" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-209" value="&lt;div&gt;Financial break &lt;br&gt;&lt;/div&gt;&lt;div&gt;even point (FBEP)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-1379.5500000000002" y="7610" width="120" height="40" as="geometry">
+          <mxGeometry x="-1384.5500000000002" y="7370" width="120" height="40" as="geometry">
             <mxRectangle x="360" y="680" width="230" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -621,142 +621,142 @@
           <mxGeometry y="40" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-211" value="Traditional Approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1379.5500000000002" y="7240" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1384.5500000000002" y="7000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-212" value="Net Income (NI) Approach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1379.5500000000002" y="7080" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1384.5500000000002" y="6840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-213" value="Modigliani and Miller (MM) Approach- 1963: with tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1380.44" y="7300" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1385.44" y="7060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-214" value="`\text{overall cost of capital}=\ text{EBIT} / \text{Value of the firm}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1273.3" y="7160" width="315" height="60" as="geometry" />
+          <mxGeometry x="-1278.3" y="6920" width="315" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-215" value="Value of the firm = MV of ES + MV of deb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1259.55" y="7080" width="280" height="40" as="geometry" />
+          <mxGeometry x="-1264.55" y="6840" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-216" value="Value of the firm (V) = MV of ES + MV of deb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1259.55" y="7240" width="280" height="40" as="geometry" />
+          <mxGeometry x="-1264.55" y="7000" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-217" value="`\text{Value of the firm} = \text{net operating income}/K_o`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1269.55" y="7120" width="307.5" height="40" as="geometry" />
+          <mxGeometry x="-1274.55" y="6880" width="307.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-218" value="Value of levered company = value of levered company + (int * tax%)/`K_d`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1258.66" y="7300" width="400" height="40" as="geometry" />
+          <mxGeometry x="-1263.66" y="7060" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-219" value="Value of levered company = value of levered company + debt * Tax%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1260.44" y="7340" width="400" height="40" as="geometry" />
+          <mxGeometry x="-1265.44" y="7100" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-220" value="Capital structure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1006" y="7020" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1011" y="6780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-221" value="Operation leverage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1442.02" y="7810" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1447.02" y="7570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-222" value="Financial leverage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1442.47" y="7920" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1447.47" y="7680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-223" value="`\text{Operating leverage} = (\text{% change in EBIT})/(\text{% change in Sales})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1322.47" y="7810" width="278.97" height="80" as="geometry" />
+          <mxGeometry x="-1327.47" y="7570" width="278.97" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-224" value="`\text{Financial leverage} = (\text{% change in EPS/EAT/EBT})/(\text{% change in EBIT})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1322.02" y="7920" width="390" height="80" as="geometry" />
+          <mxGeometry x="-1327.02" y="7680" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-225" value="`\text{Operating leverage} = (\text{Contribution})/(\text{EBIT})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1043.5" y="7810" width="291.47" height="80" as="geometry" />
+          <mxGeometry x="-1048.5" y="7570" width="291.47" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-226" value="`\text{Financial leverage} = (\text{EBIT})/(\text{EBT})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-932.02" y="7920" width="208.52" height="80" as="geometry" />
+          <mxGeometry x="-937.02" y="7680" width="208.52" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-227" value="`\text{Financial leverage} = (\text{EBIT})/(\text{EBT-Interest}-\text{Preference dividend}/(1-t))`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-723.5" y="7920" width="360" height="80" as="geometry" />
+          <mxGeometry x="-728.5" y="7680" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-228" value="Combined leverge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1445" y="8040" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1450" y="7800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-229" value="`\text{Combined leverage} = (\text{% change in EPS/EAT/EBT})/(\text{% change in EBIT})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1325" y="8040" width="390" height="80" as="geometry" />
+          <mxGeometry x="-1330" y="7800" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-230" value="`\text{Combined leverage} = (\text{Contribution})/(\text{EBT})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-941" y="8040" width="257.5" height="80" as="geometry" />
+          <mxGeometry x="-946" y="7800" width="257.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-231" value="`\text{Combined leverage} = \text{Operating leverage}*\text{Financial leverage}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-683.05" y="8040" width="419.55" height="80" as="geometry" />
+          <mxGeometry x="-688.05" y="7800" width="419.55" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-232" value="Financing Decisions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-935" y="7740" width="120" height="40" as="geometry" />
+          <mxGeometry x="-940" y="7500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-233" value="Profitability index method (PI)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1104.55" y="8360" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1109.55" y="8120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-234" value="&lt;div&gt;Net present value&lt;/div&gt;&lt;div&gt;(NPV)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1104.55" y="8260" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1109.55" y="8020" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-235" value="&lt;div&gt;Average rate of return&lt;/div&gt;&lt;div&gt;(ARR)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1105" y="8430" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1110" y="8190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-236" value="Compounding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-974.55" y="8220" width="120" height="40" as="geometry" />
+          <mxGeometry x="-979.55" y="7980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-237" value="Discounting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-834.55" y="8220" width="120" height="40" as="geometry" />
+          <mxGeometry x="-839.55" y="7980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-238" value="&lt;div&gt;`FV = PV (1+r)^n`&lt;/div&gt;&lt;div&gt;= PV * compounding &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; factor(CF)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-984.55" y="8260" width="140" height="80" as="geometry" />
+          <mxGeometry x="-989.55" y="8020" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-239" value="&lt;div&gt;`PV = (FV)/ (1+r)^n`&lt;/div&gt;&lt;div&gt;= FV / Discounting&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; factor(PVF)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-844.55" y="8260" width="140" height="80" as="geometry" />
+          <mxGeometry x="-849.55" y="8020" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-240" value="`PI = (PVCI)/(PVCO)`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-984.55" y="8360" width="120" height="50" as="geometry" />
+          <mxGeometry x="-989.55" y="8120" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-241" value="&lt;div&gt;`\text{ARR}=\text{Average profit after tax}/\text{original investment}*100`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{ARR}=\text{Average profit after tax}/\text{Average investment}*100`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Average investment} = [Cost + Scrap]/2`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-985" y="8430" width="290" height="200" as="geometry" />
+          <mxGeometry x="-990" y="8190" width="290" height="200" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-242" value="Investment decisions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-952" y="8160" width="120" height="40" as="geometry" />
+          <mxGeometry x="-957" y="7920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-243" value="Optimum cash balance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-974.8" y="8720" width="120" height="40" as="geometry" />
+          <mxGeometry x="-979.8" y="8480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-244" value="`OCB=sqrt{(2at)/o}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-994.8" y="8780" width="160" height="60" as="geometry" />
+          <mxGeometry x="-999.8" y="8540" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-245" value="&lt;div&gt;OCB = Optimum cash balance&lt;/div&gt;&lt;div&gt;a = &lt;u&gt;&lt;b&gt;Annual&lt;/b&gt;&lt;/u&gt; cash required&lt;/div&gt;&lt;div&gt;t = Transaction cost&lt;/div&gt;&lt;div&gt;o = Opportunity cost (e.g. if 8% then use 0.08)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1054.8" y="8860" width="280" height="70" as="geometry" />
+          <mxGeometry x="-1059.8" y="8620" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-246" value="Cash budgeting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-974.55" y="8670" width="120" height="40" as="geometry" />
+          <mxGeometry x="-979.55" y="8430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-247" value="Debtors on sales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1345.9099999999999" y="9030" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1350.9099999999999" y="8790" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-248" value="Debtors on cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1345.9099999999999" y="9120" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1350.9099999999999" y="8880" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-249" value="`\text{Debtors on sales} = \text{Cr.sales} xx (\text{Cr.period}/\text{12/365/52})`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1225.9099999999999" y="9030" width="330" height="70" as="geometry" />
+          <mxGeometry x="-1230.9099999999999" y="8790" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-250" value="`\text{Debtors on sales} = \text{Total cost} xx (\text{Cr.period}/\text{12/365/52})`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1225.9099999999999" y="9120" width="340" height="70" as="geometry" />
+          <mxGeometry x="-1230.9099999999999" y="8880" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-251" value="Variable cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1345.9099999999999" y="9210" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1350.9099999999999" y="8970" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-252" value="`\text{Debtors on sales} = \text{Variable cost} xx (\text{Cr.period}/\text{12/365/52})`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1225.9099999999999" y="9210" width="360" height="70" as="geometry" />
+          <mxGeometry x="-1230.9099999999999" y="8970" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-253" value="When Credit sales is not given" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1345.9099999999999" y="9300" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1350.9099999999999" y="9060" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-254" value="`\text{Avg Debtors on Variable cost} = \text{Variable cost} / \text{Debtors turnover}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-855.9100000000001" y="9300" width="370" height="60" as="geometry" />
+          <mxGeometry x="-860.9100000000001" y="9060" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-255" value="`\text{Debtors Turnover} = \text{Credit sales} / \text{Avg Debtors Turnover}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1225.9099999999999" y="9300" width="370" height="60" as="geometry" />
+          <mxGeometry x="-1230.9099999999999" y="9060" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-256" value="Receivable management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-960.4" y="8970" width="120" height="40" as="geometry" />
+          <mxGeometry x="-965.4" y="8730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-257" value="Measurement of money supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-269.99999999999994" y="745" width="120" height="40" as="geometry" />
@@ -781,6 +781,39 @@
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-264" value="Money supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O62dr573NKm8FtzhOf2Q-265" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/P8OjBmw.png;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="1040" width="520" height="385" as="geometry" />
+        </mxCell>
+        <mxCell id="O62dr573NKm8FtzhOf2Q-266" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/XgW0D25.png;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="1425" width="520" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="O62dr573NKm8FtzhOf2Q-267" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/lQBHKal.png;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="1630" width="520" height="257" as="geometry" />
+        </mxCell>
+        <mxCell id="O62dr573NKm8FtzhOf2Q-268" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/hcxxKbm.png;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="1887" width="520" height="441" as="geometry" />
+        </mxCell>
+        <mxCell id="O62dr573NKm8FtzhOf2Q-269" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/SWhShI8.png;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="2321" width="520" height="469" as="geometry" />
+        </mxCell>
+        <mxCell id="O62dr573NKm8FtzhOf2Q-270" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/chxIIKF.png;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="2790" width="520" height="223" as="geometry" />
+        </mxCell>
+        <mxCell id="O62dr573NKm8FtzhOf2Q-271" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/On0dWOK.png;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="3010" width="520" height="396" as="geometry" />
+        </mxCell>
+        <mxCell id="O62dr573NKm8FtzhOf2Q-272" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/TWkRmAC.png;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="3406" width="520" height="302" as="geometry" />
+        </mxCell>
+        <mxCell id="O62dr573NKm8FtzhOf2Q-273" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/UVmO3rf.png;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="3709" width="520" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="O62dr573NKm8FtzhOf2Q-274" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/PX1eoJv.png;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="3980" width="520" height="416" as="geometry" />
+        </mxCell>
+        <mxCell id="O62dr573NKm8FtzhOf2Q-275" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/mhY2Nqz.png;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="4396" width="520" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
