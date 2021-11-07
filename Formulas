@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T08:32:17.182Z" agent="5.0 (X11)" etag="P_rHDTVfE4yF1hTvJohY" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-07T11:44:46.357Z" agent="5.0 (X11)" etag="GOgGVlHIZu55SULDvBQh" version="15.7.0" type="github">
   <diagram id="jhTEXQ1eLOPSTr9Yi_61" name="Page-1">
-    <mxGraphModel dx="5358" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5358" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,7 +403,7 @@
         <mxCell id="O62dr573NKm8FtzhOf2Q-133" value="`\text{Budgeted Fixed Overheads}/\text{Budgeted Labour Cost}=\text{Rs. / Per Unit}`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2655" y="3914" width="325" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="O62dr573NKm8FtzhOf2Q-134" value="`\text{Budgeted Fixed Overheads}/\text{Budgeted Output}*100=\text{% of Material Cost}`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O62dr573NKm8FtzhOf2Q-134" value="`\text{Budgeted Fixed Overheads}/\text{Budgeted Material cost}*100=\text{% of Material Cost}`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2653.75" y="4004" width="402.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-135" value="`\text{Budgeted Fixed Overheads}/\text{Budgeted Prime Cost}*100=\text{% of Prime Cost}`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -815,7 +815,7 @@
         <mxCell id="O62dr573NKm8FtzhOf2Q-275" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/mhY2Nqz.png;" parent="1" vertex="1">
           <mxGeometry x="-1210" y="4460" width="520" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="0mF6jKfuIU6N8CqFXU20-1" value="Employee t/o" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0mF6jKfuIU6N8CqFXU20-1" value="Employee t/o" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2750" y="2920" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
