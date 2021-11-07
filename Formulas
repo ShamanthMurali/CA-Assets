@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T22:29:52.116Z" agent="5.0 (X11)" etag="5GZcQ6dk43tVgTcvAPUH" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-07T22:34:05.543Z" agent="5.0 (X11)" etag="1z8CubY2PNA9o_u5IZt-" version="15.7.0" type="github">
   <diagram id="jhTEXQ1eLOPSTr9Yi_61" name="Page-1">
-    <mxGraphModel dx="5358" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5512" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -434,7 +434,7 @@
           <mxGeometry x="-2010" width="680" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-150" value="&lt;div&gt;Some other formulas&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Inventories = Current ratio - Quick ratio&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1210" y="4543" width="520" height="71" as="geometry" />
+          <mxGeometry x="-1210" y="4543" width="520" height="57" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-151" value="Financial analysis and planning" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-1036" y="980" width="160" height="40" as="geometry" />
