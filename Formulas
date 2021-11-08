@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T16:11:05.103Z" agent="5.0 (X11)" etag="pvwKd2BvzPTuWrQw04nQ" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T16:13:13.411Z" agent="5.0 (X11)" etag="-B1Aj6lJh3_RLLzcmoyc" version="15.7.0" type="github">
   <diagram id="jhTEXQ1eLOPSTr9Yi_61" name="Page-1">
     <mxGraphModel dx="4879" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -629,17 +629,14 @@
         <mxCell id="O62dr573NKm8FtzhOf2Q-213" value="&lt;div&gt;Modigliani and Miller (MM) Approach&lt;/div&gt;&lt;div&gt;with tax&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1385.44" y="7124" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O62dr573NKm8FtzhOf2Q-214" value="`\text{overall cost of capital}=\ text{EBIT} / \text{Value of the firm}`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1278.3" y="6984" width="315" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-215" value="Value of the firm = MV of ES + MV of deb" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1264.55" y="6904" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-216" value="Value of the firm (V) = MV of ES + MV of deb" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1264.55" y="7064" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O62dr573NKm8FtzhOf2Q-217" value="`\text{Value of the firm} = \text{net operating income}/K_o`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1274.55" y="6944" width="307.5" height="40" as="geometry" />
+        <mxCell id="O62dr573NKm8FtzhOf2Q-217" value="`\text{Value of the firm} = \text{net operating income / EBIT}/K_o`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1264.55" y="6944" width="324.55" height="66" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-218" value="Value of levered company = value of levered company + `[(\text{int} xx tax%)/K_d]`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1265.91" y="7120" width="400" height="44" as="geometry" />
