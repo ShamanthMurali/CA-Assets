@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T15:47:27.907Z" agent="5.0 (X11)" etag="pw7EE1ch9E-SIBPsADkE" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T16:08:06.835Z" agent="5.0 (X11)" etag="88t6elY1s-3xINO2Zhx0" version="15.7.0" type="github">
   <diagram id="jhTEXQ1eLOPSTr9Yi_61" name="Page-1">
-    <mxGraphModel dx="5358" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5004" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -553,7 +553,7 @@
         <mxCell id="O62dr573NKm8FtzhOf2Q-189" value="`K_d = (\text{interest P.a} (1-t))/(\text{MV of proceeds})*100`" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-910" y="6311" width="235.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O62dr573NKm8FtzhOf2Q-190" value="&lt;div&gt;cost to retained earnongs&lt;/div&gt;&lt;div&gt;`K_r`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O62dr573NKm8FtzhOf2Q-190" value="&lt;div&gt;cost to retained earnings&lt;/div&gt;&lt;div&gt;`K_r`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-960" y="6670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O62dr573NKm8FtzhOf2Q-191" value="`K_r = K_e`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
