@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T12:54:36.577Z" agent="5.0 (X11)" etag="AB3Off72kSRFvyzQoGSy" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T15:47:27.907Z" agent="5.0 (X11)" etag="pw7EE1ch9E-SIBPsADkE" version="15.7.0" type="github">
   <diagram id="jhTEXQ1eLOPSTr9Yi_61" name="Page-1">
-    <mxGraphModel dx="5358" dy="1543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5358" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -839,8 +839,11 @@
         <mxCell id="3lYaOrGLp83USkCxUUNz-3" value="(a.k.a Super quick ratio)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1204" y="1250" width="94" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGx6nKRuIHpwFvz1a1Xo-1" value="CE = ESC + R&amp;amp;S + NCL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qGx6nKRuIHpwFvz1a1Xo-1" value="CE = ESC + R&amp;amp;S + NCL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="3630" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qfyXc_i1h0AeHCSlztfu-1" value="Rafael bomber ram ram " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-1092.5" y="5674" width="145" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
